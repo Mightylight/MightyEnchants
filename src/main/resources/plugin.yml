@@ -1,0 +1,4 @@
+name: MightyEnchants
+version: '${project.version}'
+main: me.mightylight.mightyenchants.MightyEnchants
+api-version: 1.19

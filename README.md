@@ -1,13 +1,13 @@
 # MightyEnchants
-This is one of my first plugins aimed at making some custom enchantments that would be very usefull while playing minecraft. It uses a custom GUI to "buy" enchantments.
+This is one of my first plugins aimed at making some custom enchantments that would be very useful while playing minecraft. It uses a custom GUI to "buy" enchantments.
 
 ## Thus far these enchantments have been implemented:
-- Triple shot. A bow can be enchanted with this to shoot 3 arrows at the same time. (Costs 1 diamond) 🏹
+-  :bow_and_arrow: Triple shot. A bow can be enchanted with this to shoot 3 arrows at the same time. (Costs 1 diamond)
 
 ## These enchantments are being worked on:
-- Rainbow trail for arrows shot from a bow/crossbow. 🌈
-- Explosive mining for a pickaxe. 💥
-- Treefeller for an axe. This allow you to chop a whole tree down at once. 🌲
+- 🌈 Rainbow trail for arrows shot from a bow/crossbow.
+- 💥 Explosive mining for a pickaxe.
+- 🌲 Treefeller for an axe. This allow you to chop a whole tree down at once.
 
 
 
